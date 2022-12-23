@@ -63,3 +63,9 @@ Uisng https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-datas
   - Acquire customer data and more useful features.
   - Using deep learning, can be useful in complex data 
     and get more realistic results that can use in banks.
+    
+    
+    
+## contact 
+![image](https://user-images.githubusercontent.com/60587913/209285099-911ab4b9-604a-45e5-8c96-ce618df56870.png)https://www.linkedin.com/in/%D9%90%D9%90alaa-elkhashap/
+    
