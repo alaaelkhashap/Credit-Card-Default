@@ -1,7 +1,6 @@
 # Credit-Card-Default
 
-![images](https://user-images.githubusercontent.com/60587913/209307054-6786b8eb-e704-4cb4-8b5f-3dfc7cb333ad.jpg)
-
+![images](https://user-images.githubusercontent.com/60587913/209307220-a70aa010-a503-4223-89e8-61e7702dcfbd.png)
 ## Main Topic
 * Benefit of credit card 
 * How credit card default happens
