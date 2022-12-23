@@ -36,11 +36,10 @@ Uisng https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-datas
   - Feature Engineering
   
 * Training Data
-First, we have used 4 train data methods which are:
-Normal training set
-Upsampled training set
-Downsampled training set
-SMOTE training set
+    - Normal training set
+    - Upsampled training set
+    - Downsampled training set
+    - SMOTE training set
 
 * Models
   - Random Forest
