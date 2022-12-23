@@ -19,4 +19,50 @@ This might be problematic for both the client and the bank. It could cause a sig
 
 Due to what we covered in the previous section and the significant risk that the banking and finance industries face, they have adopted cutting-edge technology, specifically the machine learning (ML) approach, to predict future decisions based on the client's historical data and determine whether or not a specific client can pay his or her debts. This will help to avoid a lot of issues in the future.
 
+## Covered Toics in methodology
 
+* Data Preparation
+  - Data Preparation
+  - Data Cleaning
+  - Further Analysis
+  - Feature Engineering
+  
+* Training Data
+First, we have used 4 train data methods which are:
+Normal training set
+Upsampled training set
+Downsampled training set
+SMOTE training set
+
+* Models
+  - Random Forest
+  - Ada Boost
+  - Gradient Boost
+  - Light GBM Classifier
+  - XGBClassifier
+  - Pycart
+  
+ ## Conclusion
+ •  Investigated the data and checked for data 
+unbalancing.
+• Visualizing the features and understanding the 
+relationship between different features.
+• Using different models from machine learning like 
+“RF, DT, Ada boost, Gradient boost, LGBM,
+Xgboost, and pycaret”.
+• The best model is LDA using pycaret and the worst 
+one is Ada Boost using a different sample of the 
+training set.
+• After implementing a different model, it may use in 
+the bank to determine which client deserves to get 
+the credit card.
+• According to the accuracy:
+The best model is the Ridge Classifier model = 
+82.17%.
+The worst model is the random forest model using
+SMOTE training set = 69%.
+
+ ## Future Work
+  - Acquire customer data and more useful features.
+  - Using deep learning, can be useful in complex data 
+    and get more realistic results that can use in banks.
