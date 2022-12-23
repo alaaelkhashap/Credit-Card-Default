@@ -19,6 +19,14 @@ This might be problematic for both the client and the bank. It could cause a sig
 
 Due to what we covered in the previous section and the significant risk that the banking and finance industries face, they have adopted cutting-edge technology, specifically the machine learning (ML) approach, to predict future decisions based on the client's historical data and determine whether or not a specific client can pay his or her debts. This will help to avoid a lot of issues in the future.
 
+
+## Dataset 
+Uisng https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset Dataset
+* Dataset Information
+    - This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+    - Consists of 30000 instances, and 24 attributes with different data types (Numerical and Categorical)
+
+
 ## Covered Toics in methodology
 
 * Data Preparation
@@ -40,7 +48,7 @@ SMOTE training set
   - Gradient Boost
   - Light GBM Classifier
   - XGBClassifier
-  - Pycart
+  - pycaret
   
  ## Conclusion
  •  Investigated the data and checked for data 
